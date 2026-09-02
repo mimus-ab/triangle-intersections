@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1788364752 source:c:\users\Фёдор\downloads\polygon.cpp
+	"polygon.h"
+	<conio.h>
+	<math.h>
+
+1788364752 c:\users\Фёдор\downloads\polygon.h
+	<iostream>
+
+1788373092 source:c:\users\Фёдор\documents\Проекты\polygon\polygon(triangle)\main.cpp
+	"polygon.h"
+	"SVG.h"
+
+1788372988 c:\users\Фёдор\documents\Проекты\polygon\polygon(triangle)\polygon.h
+	<iostream>
+
+1788372041 source:c:\users\Фёдор\documents\Проекты\polygon\polygon(triangle)\polygon.cpp
+	"polygon.h"
+	<conio.h>
+	<math.h>
+
+1788372189 source:c:\users\Фёдор\documents\Проекты\polygon\polygon(triangle)\svg.cpp
+	"polygon.h"
+	<fstream>
+
+1788372988 c:\users\Фёдор\documents\Проекты\polygon\polygon(triangle)\svg.h
+	"polygon.h"
+	<string>
+

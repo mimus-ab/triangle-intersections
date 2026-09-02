@@ -1,0 +1,10 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='500' height='500' viewBox='0 0 500 500'>
+<polygon points='160,350 360,350 260,250 ' fill='blue' fill-opacity='0.5' stroke='blue' stroke-width='2'/>
+<polygon points='150,320 250,320 200,350 ' fill='green' fill-opacity='0.5' stroke='green' stroke-width='2'/>
+<circle cx='190' cy='320' r='4' fill='red'/>
+<circle cx='200' cy='350' r='4' fill='red'/>
+<circle cx='200' cy='350' r='4' fill='red'/>
+<circle cx='175' cy='335' r='4' fill='red'/>
+<circle cx='250' cy='320' r='4' fill='red'/>
+<circle cx='200' cy='350' r='4' fill='red'/>
+</svg>

@@ -32,9 +32,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="SVG.c">
+		<Unit filename="SVG.cpp">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="SVG.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="polygon.cpp" />
 		<Unit filename="polygon.h" />
